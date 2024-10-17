@@ -1,4 +1,5 @@
-## Hi there 👋
+## Achivements 🏆
+[![An image of @piyushjain045's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushjain045)](https://holopin.io/@piyushjain045)
 
 <!--
 **PiyushJain045/PiyushJain045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
